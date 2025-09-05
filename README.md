@@ -1,5 +1,11 @@
 # Nota - Version BETA
 
+### September 2025, Nota app is here!
+
+Download link:
+[Google Play store](https://play.google.com/store/apps/details?id=victor_gonzalez_ollervidez.nota)
+
+
 ### 2025 news!
 Hola amigos! Soy Victor, si están aquí es porque han usado por lo menos 1 vez mi app, lamentablemente a principios del 2024 decidí venderla a una empresa, el porque? Básicamente no recibía nada de dinero y el poco que llegaba a recibir era mostrando anuncios. Pero he decidido comenzar de nuevo el proyecto, la buena noticia es que Notas estará de vuelta, obviamente es una app nueva desde cero, con muchas correcciones de errores que Notas 1 tuvo, también adaptada a los tiempos modernos donde el diseño de interfaz y la sincronización en la nube son de suma importancia. Nota sera 100% online ya no volveras a perder una nota
 
